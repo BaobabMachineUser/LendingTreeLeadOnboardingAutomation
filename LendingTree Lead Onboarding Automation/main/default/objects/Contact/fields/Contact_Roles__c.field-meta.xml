@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Contact_Roles__c</fullName>
+    <externalId>false</externalId>
+    <label>Contact Roles</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Business Owner</fullName>
+                <default>true</default>
+                <label>Business Owner</label>
+            </value>
+            <value>
+                <fullName>ISO Rep</fullName>
+                <default>false</default>
+                <label>ISO Rep</label>
+            </value>
+            <value>
+                <fullName>Business User</fullName>
+                <default>false</default>
+                <label>Business User</label>
+            </value>
+            <value>
+                <fullName>Decision Maker</fullName>
+                <default>false</default>
+                <label>Decision Maker</label>
+            </value>
+            <value>
+                <fullName>Economic Buyer</fullName>
+                <default>false</default>
+                <label>Economic Buyer</label>
+            </value>
+            <value>
+                <fullName>Economic Decision Maker</fullName>
+                <default>false</default>
+                <label>Economic Decision Maker</label>
+            </value>
+            <value>
+                <fullName>Evaluator</fullName>
+                <default>false</default>
+                <label>Evaluator</label>
+            </value>
+            <value>
+                <fullName>Executive Sponsor</fullName>
+                <default>false</default>
+                <label>Executive Sponsor</label>
+            </value>
+            <value>
+                <fullName>Influencer</fullName>
+                <default>false</default>
+                <label>Influencer</label>
+            </value>
+            <value>
+                <fullName>Technical Buyer</fullName>
+                <default>false</default>
+                <label>Technical Buyer</label>
+            </value>
+            <value>
+                <fullName>Other</fullName>
+                <default>false</default>
+                <label>Other</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

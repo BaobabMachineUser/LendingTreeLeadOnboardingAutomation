@@ -1,0 +1,5 @@
+Hello,
+
+Please reply to this email to deactivate onboarding emails and texts to {!Opportunity.Owner1FirstName__c} who's requested {!Opportunity.integer_amount__c} funding options for {!Opportunity.Account}.
+
+Do not alter the subject line !

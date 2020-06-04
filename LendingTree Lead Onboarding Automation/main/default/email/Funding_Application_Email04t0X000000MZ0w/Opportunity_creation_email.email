@@ -1,0 +1,21 @@
+Hi {!Opportunity.Owner1FirstName__c},
+
+I received your LendingTree request for {!Opportunity.integer_amount__c}. We are a direct funder, and only do soft credit pulls. This also means we can typically have funds ready in just 1-2 days.
+
+I’ve included a link to our secure 1-page online application. Please click below to fill out the required fields (and provide 3 months of business bank statements), I’ll get you a firm quote.
+
+https://app.hellosign.com/s/8NNQ05V0
+
+If you have any questions and would like to speak, call or text me anytime: 866-527-2693
+
+- Ralph
+
+Ralph Pasquarello
+Sr. Funding Specialist
+SOS Capital
+
+--------
+
+1330 Ave of the Americas, Suite 600B
+New York, NY 10019
+P: 866-493-2571

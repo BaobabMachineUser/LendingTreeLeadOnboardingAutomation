@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>second_journey_email_datetime__c</fullName>
+    <description>The date and time at which the second journey email will be sent.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>The date and time at which the second journey email will be sent.</inlineHelpText>
+    <label>second journey email datetime</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackTrending>false</trackTrending>
+    <type>DateTime</type>
+</CustomField>

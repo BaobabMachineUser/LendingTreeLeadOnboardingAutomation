@@ -1,0 +1,26 @@
+Hi {!Opportunity.Owner1FirstName__c},
+
+Are you still looking for {!Opportunity.integer_amount__c} for {!Opportunity.Account}?
+
+As a direct funder, it’s only a soft credit pull to apply with us – and we typically have funds ready in 1-2 days.
+
+There’s a simple 1-page online application. I would just need you to fill out the required fields and include three months of recent business bank statements.
+
+It should only take a few minutes, click the link below to get started:
+
+https://app.hellosign.com/s/8NNQ05V0
+
+Let’s move this forward and get you a firm quote on the {!Opportunity.integer_amount__c}. Call or text me anytime if you have questions: 866-527-2693
+
+- Ralph
+
+Ralph Pasquarello
+Sr. Funding Specialist
+SOS Capital
+
+-------- 
+                  
+1330 Ave of the Americas, Suite 600B
+New York, NY 10019
+P: 866-493-2571
+F: 866-836-4213
