@@ -1,0 +1,10 @@
+[
+    {
+        "sobject": "Template__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "export-Template__cs.json"
+        ]
+    }
+]

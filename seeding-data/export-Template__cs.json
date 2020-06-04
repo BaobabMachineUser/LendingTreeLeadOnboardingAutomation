@@ -1,0 +1,58 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Template__c",
+                "referenceId": "Template__cRef1"
+            },
+            "Is_Merge_Field_Verified__c": true,
+            "ParentSObject__c": "Opportunity",
+            "Template_body__c": "Hi {!Opportunity.Owner1FirstName__c}, if you are still interested in getting {!Opportunity.string_amount__c} for {!Opportunity.Journey_Account_Name__c}, let’s talk. Given that we’re a direct funder (not a middleman), I can typically have funds ready in just 1-2 days…"
+        },
+        {
+            "attributes": {
+                "type": "Template__c",
+                "referenceId": "Template__cRef2"
+            },
+            "Is_Merge_Field_Verified__c": true,
+            "ParentSObject__c": "Lead",
+            "Template_body__c": "Hi {!Lead.FirstName}, if you are still interested in getting {!Lead.Amount_Requested__c} Baobab, let’s talk. Given that we’re a direct funder (not a middleman), I can typically have funds ready in just 1-2 days…"
+        },
+        {
+            "attributes": {
+                "type": "Template__c",
+                "referenceId": "Template__cRef3"
+            },
+            "Is_Merge_Field_Verified__c": true,
+            "ParentSObject__c": "Lead",
+            "Template_body__c": "Hi {!Lead.FirstName}, following-up on the text I sent yesterday. Did you receive the application I emailed to get you a firm quote on the {!Lead.Amount_Requested__c} for {!Lead.Company}?"
+        },
+        {
+            "attributes": {
+                "type": "Template__c",
+                "referenceId": "Template__cRef4"
+            },
+            "Is_Merge_Field_Verified__c": true,
+            "ParentSObject__c": "Opportunity",
+            "Template_body__c": "Hi {!Opportunity.Owner1FirstName__c}, following-up on the text I sent yesterday. Did you receive the application I emailed to get you a firm quote on the {!Opportunity.string_amount__c} for {!Opportunity.Journey_Account_Name__c}?"
+        },
+        {
+            "attributes": {
+                "type": "Template__c",
+                "referenceId": "Template__cRef5"
+            },
+            "Is_Merge_Field_Verified__c": true,
+            "ParentSObject__c": "Lead",
+            "Template_body__c": "Hi {!Lead.FirstName} I received your LendingTree submission requesting {!Lead.Amount_Requested__c} for {!Lead.Company}. The next step for a firm quote is to complete a simple one page application and send in some business bank statements. We are a direct funder, and only do soft credit pulls. Please check your email inbox for a message from ralphp@soscapital. If you have any questions, I’m happy to provide additional information — you can reach me anytime at 866-527-2693 or just reply to this text.Thanks,Ralph (SOS Capital)"
+        },
+        {
+            "attributes": {
+                "type": "Template__c",
+                "referenceId": "Template__cRef6"
+            },
+            "Is_Merge_Field_Verified__c": true,
+            "ParentSObject__c": "Opportunity",
+            "Template_body__c": "Hi {!Opportunity.Owner1FirstName__c}, I received your LendingTree submission requesting {!Opportunity.string_amount__c} for {!Opportunity.Journey_Account_Name__c}. \r\n\r\nThe next step for a firm quote is to complete a simple one page application and send in some business bank statements. We are a direct funder, and only do soft credit pulls. \r\n\r\nPlease check your email inbox for a message from ralphp@soscapital. \r\n\r\nIf you have any questions, I’m happy to provide additional information — you can reach me anytime at 866-527-2693 or just reply to this text.\r\n\r\nThanks, Ralph (SOS Capital)"
+        }
+    ]
+}
