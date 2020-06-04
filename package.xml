@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types>
+    <name>ApexClass</name>
+    <members>OpportunityJourneyService</members>
+    <members>OpportunityJourneyServiceTest</members>
+    <members>ScheduleJourney</members>
+    <members>ScheduleJourneyTest</members>
+  </types>
+  <types>
+    <name>ApexTrigger</name>
+    <members>OpportunityJourneyTrigger</members>
+  </types>
+  <version>48.0</version>
+</Package>
