@@ -34,7 +34,7 @@ ehthumbs.db
 [Dd]esktop.ini
 $RECYCLE.BIN/
 
-# VSCode config
+#Other configs
 .vscode/
-
+.circleci/
 scripts/
