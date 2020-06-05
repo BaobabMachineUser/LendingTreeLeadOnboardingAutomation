@@ -36,5 +36,4 @@ $RECYCLE.BIN/
 
 #Other configs
 .vscode/
-.circleci/
 scripts/
